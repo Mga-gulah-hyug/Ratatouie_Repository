@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Launch HelloHendrick",
+            "request": "launch",
+            "mainClass": "HelloHendrick",
+            "projectName": "Ratatouie_Repository_98780ff6"
+        },
+        {
             "name": "Java",
             "type": "java",
             "request": "launch",
